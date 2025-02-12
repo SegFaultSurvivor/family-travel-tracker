@@ -7,7 +7,7 @@
 <img width="1280" alt="Screenshot" src="https://github.com/SegFaultSurvivor/family-travel-tracker/blob/79448338c8e07c51c1a66bb7854424cf70e65a6e/public/styles/add.png">  
 
 ### 🎥 Watch the Demo Video  
-[Family Travel Tracker Walkthrough Video](https://github.com/yourusername/family-travel-tracker/blob/main/public/demo/tracker-demo.mp4)  
+[Family Travel Tracker Walkthrough Video](https://github.com/SegFaultSurvivor/family-travel-tracker/blob/c11074d2ea33ed6781a3511feca642a1004f4244/public/styles/family_travel_tracker.mp4)  
 
 ---  
 
