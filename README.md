@@ -3,9 +3,8 @@
 ## Demo  
 
 ### 📸 Project Screenshot  
-<img width="1280" alt="Screenshot" src="https://github.com/yourusername/family-travel-tracker/blob/main/public/images/map-view.png">  
-<img width="1280" alt="Screenshot" src="https://github.com/yourusername/family-travel-tracker/blob/main/public/images/travel-log.png">  
-<img width="1280" alt="Screenshot" src="https://github.com/yourusername/family-travel-tracker/blob/main/public/images/add-location.png">  
+<img width="1280" alt="Screenshot" src="https://github.com/SegFaultSurvivor/family-travel-tracker/blob/79448338c8e07c51c1a66bb7854424cf70e65a6e/public/styles/world_map.png">  
+<img width="1280" alt="Screenshot" src="https://github.com/SegFaultSurvivor/family-travel-tracker/blob/79448338c8e07c51c1a66bb7854424cf70e65a6e/public/styles/add.png">  
 
 ### 🎥 Watch the Demo Video  
 [Family Travel Tracker Walkthrough Video](https://github.com/yourusername/family-travel-tracker/blob/main/public/demo/tracker-demo.mp4)  
